@@ -10,8 +10,10 @@ This is an assignment for the HelloSign recruitment process.
 ## Preconditions for the tests
 
 These are the requirements to perform the tests
--[Firefox](https://www.mozilla.org/en-US/firefox/new/)
--[Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+- [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 
 ## Installaling Watir and Selenium (assuming you already have the preconditions)
 
@@ -24,11 +26,14 @@ Almost there!
 
 ## Running the tests
 
-Clone the repository
-cd into the new repo
-Run the first test:
+* Clone the repository
+* cd into the new repo
+* Run the first test:
+
 ```$ruby test1.rb```
-Run the second test:
+
+* Run the second test:
+
 ```$ruby test2.rb```
 
 
